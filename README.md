@@ -75,9 +75,3 @@ Projede iki ana veri seti kullanılmıştır:
 -   EDA aşamasında şarkı özelliklerinin dağılımları ve zaman içindeki değişimleri hakkında çeşitli bilgiler edinilmiştir. Örneğin, şarkı sürelerinin son yıllarda kısalma eğiliminde olduğu veya bazı sanatçıların veri setinde daha fazla şarkıyla temsil edildiği görülmüştür.
 -   Rastgele Orman Sınıflandırıcısı ile geliştirilen müzik türü tahmin modeli, test verileri üzerinde yaklaşık %73.38 doğruluk oranına ulaşmıştır. Bu, modelin belirli bir başarıyla müzik türlerini tahmin edebildiğini göstermektedir, ancak özellikle az sayıda örneği olan türler için iyileştirmeler yapılabilir.
 
-## Nasıl Çalıştırılır?
-
-1.  Proje dosyalarını bilgisayarınıza indirin (`spotıfy_verı_analızı_müzık_türü_tahmını.ipynb`, `songs_normalize.csv`, `yenı.csv`).
-2.  Jupyter Notebook veya Google Colab gibi bir Python ortamında `.ipynb` dosyasını açın.
-3.  Gerekli kütüphanelerin kurulu olduğundan emin olun (pandas, numpy, matplotlib, plotly, scikit-learn, joblib).
-4.  Hücreleri sırayla çalıştırın.
